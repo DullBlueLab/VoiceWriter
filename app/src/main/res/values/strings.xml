@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Voice Writer 3</string>
+    <string name="title_setting">Setting</string>
+    <string name="button_back">Back</string>
+    <string name="button_setting">Setting</string>
+    <string name="label_setting_symbol">Association of symbols and words</string>
+    <string name="label_cursor_char">Cursor charactor</string>
+    <string name="button_send">Send</string>
+</resources>
